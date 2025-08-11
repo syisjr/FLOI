@@ -1,5 +1,8 @@
 # 这里是FLOI内部出题组
 
+## **通知**
+FLOI github仓库预计将于2025年8月17日进入私有状态，无法被公开访问，请尽快注册一个github账户，并将用户名私发给songyu1888，以便将其添加至允许访问列表。
+
 ## 出题规范
 题目题面使用Markdown编写，对于数学符号，**应使用** $\LaTeX$ 进行编辑。
 [Markdown教程](https://markdown.com.cn/)
